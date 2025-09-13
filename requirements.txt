@@ -1,0 +1,4 @@
+streamlit
+recipe_scrapers
+requests
+beautifulsoup4
